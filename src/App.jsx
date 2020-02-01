@@ -16,7 +16,7 @@ const profile = (
 </section>
 
 <section>
-<p><a class="btn-primary btn-lg" href="https://github.com/abalikile/Module1_submission">VIEW MY GITHUB REPO</a></p>
+<p><a class="btn-primary btn-lg" href="https://github.com/abalikile/Module1_Assignment">VIEW MY GITHUB REPO</a></p>
 </section>
 
 
